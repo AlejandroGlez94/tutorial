@@ -1,4 +1,3 @@
-aaaa
-ssss
-aaaa
-ss
+# Tutorial
+
+This is my tutorial repository.
